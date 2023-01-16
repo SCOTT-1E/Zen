@@ -64,9 +64,9 @@
         // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮   ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮
              &kp TAB       &trans        &trans        &trans        &trans            &trans        &kp HOME      &kp UP        &kp END       &kp DEL  
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-             &kp LSHFT     &kp LCTRL     &kp LALT     &kp LCMD       &trans            &kp CAPS      &kp LEFT      &kp DOWN      &kp RIGHT     &kp BSPC
+             &kp LSHFT     &kp LCTRL     &kp LALT      &kp LCMD      &trans            &kp CAPS      &kp LEFT      &kp DOWN      &kp RIGHT     &kp BSPC
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-             &trans        &trans        &trans        &trans        &kp C_PP          &trans        &kp PG_DN     &kp PG_UP     &tog 1        &kp ENTER
+             &bt BT_CLR    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3      &trans        &kp PG_DN     &kp PG_UP     &tog 1        &kp ENTER
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
                                          &trans        &trans        &trans            &trans        &trans        &trans 
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
